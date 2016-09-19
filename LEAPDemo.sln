@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5863BFAB-8780-A870-5D2D-4079ADD44B7B}") = "LEAPDemo", "Assembly-CSharp.csproj", "{400D9D63-8B0F-8DE4-D579-93F1F3CE1254}"
+EndProject
+Project("{5863BFAB-8780-A870-5D2D-4079ADD44B7B}") = "LEAPDemo", "Assembly-CSharp-Editor.csproj", "{985CFDAD-BAD5-5602-C567-69A41AA57C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{400D9D63-8B0F-8DE4-D579-93F1F3CE1254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400D9D63-8B0F-8DE4-D579-93F1F3CE1254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400D9D63-8B0F-8DE4-D579-93F1F3CE1254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400D9D63-8B0F-8DE4-D579-93F1F3CE1254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{985CFDAD-BAD5-5602-C567-69A41AA57C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985CFDAD-BAD5-5602-C567-69A41AA57C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985CFDAD-BAD5-5602-C567-69A41AA57C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985CFDAD-BAD5-5602-C567-69A41AA57C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
